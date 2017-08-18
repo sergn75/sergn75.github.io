@@ -5,10 +5,6 @@
             {
                  "appID": "HDAP27F737.com.viggo.mobie.client",
                  "paths": ["/api/2.0/byod/get_app/*"]
-            },
-            {
-                "appID": "CG8XX7H4UZ.com.viggo.mobie.client",
-                "paths": [ "/api/2.0/byod/get_app/*" ]
             }
     ]
   }
